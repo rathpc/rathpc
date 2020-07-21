@@ -1,4 +1,4 @@
-### Hi there 👋
+![Steven Rathbauer, Senior Software Engineer](https://github.com/rathpc/rathpc/raw/master/github_profile.gif)
 
 <!--
 **rathpc/rathpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
